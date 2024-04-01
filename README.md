@@ -21,5 +21,5 @@ I also love acting, film, music production, and am a tech enthusiast. I'm as cre
 
 You can reach me at the social media and Linktree in my profile, and you can explore more of my professional work at the links below:
 
-LinkedIn: https://www.linkedin.com/in/arnavtalwani/
+LinkedIn: https://www.linkedin.com/in/arnavtalwani/  
 Devpost: https://devpost.com/arnav416/
