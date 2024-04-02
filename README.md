@@ -2,6 +2,9 @@
 
 ### Hi there, I'm Arnav 👋
 
+<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/programming-ezgif.com-added-text.gif" width="" height=""/>
+
+
 <!--
 **ARNAVTALWANI/ARNAVTALWANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
