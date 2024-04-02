@@ -1,9 +1,6 @@
-<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/image_processing20210925-7245-n44xon.gif" width="" height=""/>
+<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/image_processing20210925-7245-n44xon.gif" width="1000" height="500"/>
 
 ### Hi there, I'm Arnav 👋
-
-<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/programming-ezgif.com-added-text.gif" width="1000" height=""/>
-
 
 <!--
 **ARNAVTALWANI/ARNAVTALWANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
