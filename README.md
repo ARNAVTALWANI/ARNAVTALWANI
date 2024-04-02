@@ -1,4 +1,4 @@
-![gif](https://github.com/ARNAVTALWANI/ARNAVTALWANI/assets/56046324/ec5d034a-ebed-4b65-a20d-f3c0df48e6f4)
+<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/image_processing20210925-7245-n44xon.gif" width="" height=""/>
 
 ### Hi there, I'm Arnav 👋
 
