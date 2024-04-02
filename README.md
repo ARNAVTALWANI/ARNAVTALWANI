@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Arnav 👋
 
-<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/programming-ezgif.com-added-text.gif" width="" height=""/>
+<img src="https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/programming-ezgif.com-added-text.gif" width="1000" height=""/>
 
 
 <!--
