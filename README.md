@@ -1,3 +1,5 @@
+![gif](https://github.com/ARNAVTALWANI/ARNAVTALWANI/assets/56046324/ec5d034a-ebed-4b65-a20d-f3c0df48e6f4)
+
 ### Hi there, I'm Arnav 👋
 
 <!--
@@ -19,7 +21,7 @@ Hi, my name is Arnav, and I'm a student in the Engineering Science program at th
 
 I also love acting, film, music production, and am a tech enthusiast. I'm as creative as I am technical and work best at combining these two approaches to problem-solving. In my spare time, I also engage in advocacy work, holding the positions of U-Report Ambassador and Youth Advocate with UNICEF Canada, and I also promote safety in the community through martial arts, myself holding a green belt in Okinawan Goju-ryu karate.
 
-You can reach me at the social media and Linktree in my profile, and you can explore more of my professional work at the links below:
-
-LinkedIn: https://www.linkedin.com/in/arnavtalwani/ ![alt-text](https://github.com/ARNAVTALWANI/ARNAVTALWANI/blob/main/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
+You can reach me at the social media and Linktree in my profile, and you can explore more of my professional work at the links below:  
+LinkedIn: https://www.linkedin.com/in/arnavtalwani/  
 Devpost: https://devpost.com/arnav416/
+
